@@ -1,2 +1,2 @@
 # order-returns-prediction-classification
-Binary classification problem - In progress
+Binary classification on imbalanced and complex data to predict order returns 
